@@ -18,5 +18,6 @@ The app is ran on React and it is styled by Bootstrap.
 
 # Screenshots
 
-![alt text](../todo_apps/src/Images/Screenshot%202025-01-22%20165318.png)
-![alt text](../todo_apps/src/Images/Screenshot%202025-01-22%20165341.png)
+![alt text](<src/Images/Screenshot 2025-01-22 165318.png>)
+![alt text](<src/Images/Screenshot 2025-01-22 165341.png>)
+
